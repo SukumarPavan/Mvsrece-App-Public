@@ -6,14 +6,16 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 *An exclusive, beautiful, and feature-rich app designed by students, for students.*
 
 <br/>
 
-<!-- 📸 DRAG AND DROP YOUR HERO SCREENSHOT HERE -->
-*(Screenshot coming soon)*
+<!-- 📸 HERO SCREENSHOT -->
+<img src="assets/hero.jpeg" alt="MVSR ECE Hero" width="800" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 </div>
 
@@ -35,7 +37,7 @@
 
 | Home Dashboard | Timetable | Chatbot | Profile |
 |:---:|:---:|:---:|:---:|
-| *(Drop image here)* | *(Drop image here)* | *(Drop image here)* | *(Drop image here)* |
+| <img src="assets/ss1.jpeg" width="200" alt="Home"> | <img src="assets/ss2.jpeg" width="200" alt="Timetable"> | <img src="assets/ss3.jpeg" width="200" alt="Chatbot"> | <img src="assets/ss4.jpeg" width="200" alt="Profile"> |
 
 ## 🚀 Getting Started
 
