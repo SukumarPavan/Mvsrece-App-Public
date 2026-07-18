@@ -2,7 +2,9 @@
 
 # 📱 MVSR ECE Companion App
 
-**Your ultimate companion for the Department of Electronics and Communication Engineering at MVSR Engineering College.** 
+**The companion app for the Department of Electronics and Communication Engineering at MVSR Engineering College.** 
+
+[![GitHub stars](https://img.shields.io/github/stars/SukumarPavan/Mvsrece-App-Public?style=social)](https://github.com/SukumarPavan/Mvsrece-App-Public/stargazers)
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
@@ -44,7 +46,7 @@
 *This repository serves as the public landing page, issue tracker, and feature request hub. The main application code is maintained privately to protect sensitive endpoints and proprietary configurations.*
 
 **Are you an MVSR ECE student?** 
-Download the app from the Play Store (Link coming soon) or contact the development team for APK access.
+Download the app from the [Play Store](https://play.google.com/store/apps/details?id=com.mvsr.mvsr_ece) or contact the development team for APK access.
 
 ## 🐛 Found a Bug or Have an Idea?
 
