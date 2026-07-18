@@ -35,7 +35,7 @@
 
 > **Note to Maintainers:** Drag and drop your screenshots right here in the GitHub editor!
 
-| Home Dashboard | Timetable | Chatbot | Profile |
+| Home Dashboard | Resources | Chat Bot | Faculty |
 |:---:|:---:|:---:|:---:|
 | <img src="assets/ss1.jpeg" width="200" alt="Home"> | <img src="assets/ss2.jpeg" width="200" alt="Timetable"> | <img src="assets/ss3.jpeg" width="200" alt="Chatbot"> | <img src="assets/ss4.jpeg" width="200" alt="Profile"> |
 
