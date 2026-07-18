@@ -25,7 +25,6 @@
 
 ## ✨ Features
 
-- **🎓 Student Profile & ID:** Quick access to your digital footprint, roll number, and department details.
 - **📅 Timetable & Attendance:** Always know where you need to be with real-time timetable integration.
 - **📰 Department News & Announcements:** Never miss an important circular or event update.
 - **🏆 Clubs & Activities:** Stay connected with IETE, IEEE, BES, and CSI. 
