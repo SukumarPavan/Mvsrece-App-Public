@@ -59,6 +59,16 @@ We want to hear from you! If you found a bug or have an idea to make the app eve
 
 If you use and love the MVSR ECE App, please consider giving this repository a ⭐ to show your support!
 
+<div align="center">
+  <a href="https://star-history.com/#SukumarPavan/Mvsrece-App-Public&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SukumarPavan/Mvsrece-App-Public&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SukumarPavan/Mvsrece-App-Public&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SukumarPavan/Mvsrece-App-Public&type=Date" />
+    </picture>
+  </a>
+</div>
+
 ---
 <div align="center">
 Made with passion by ECE Students ❤️
