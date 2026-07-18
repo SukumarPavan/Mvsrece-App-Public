@@ -60,11 +60,7 @@ If you use and love the MVSR ECE App, please consider giving this repository a â
 
 <div align="center">
 <a href="https://www.star-history.com/?repos=SukumarPavan%2FMvsrece-App-Public&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=SukumarPavan/Mvsrece-App-Public&type=date&theme=dark&legend=top-left&sealed_token=dnyBoH-C7Cv-l0Q2DgdI6rzgtw_wp14-QkOqOqQPtVg5gTayLav8YJcf8EPOzT1qXnBunnUBGFbsURHPBeB89amBz502gM38kI31ZdADLTEEf5xHXwuduozdVr1upOgL4uAo6D_DJbVv_jjKPTPTwEOQYIRSia8IrLXbwSMmO2xnfrzTpP1SsGyjNfh5" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=SukumarPavan/Mvsrece-App-Public&type=date&legend=top-left&sealed_token=dnyBoH-C7Cv-l0Q2DgdI6rzgtw_wp14-QkOqOqQPtVg5gTayLav8YJcf8EPOzT1qXnBunnUBGFbsURHPBeB89amBz502gM38kI31ZdADLTEEf5xHXwuduozdVr1upOgL4uAo6D_DJbVv_jjKPTPTwEOQYIRSia8IrLXbwSMmO2xnfrzTpP1SsGyjNfh5" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=SukumarPavan/Mvsrece-App-Public&type=date&legend=top-left&sealed_token=dnyBoH-C7Cv-l0Q2DgdI6rzgtw_wp14-QkOqOqQPtVg5gTayLav8YJcf8EPOzT1qXnBunnUBGFbsURHPBeB89amBz502gM38kI31ZdADLTEEf5xHXwuduozdVr1upOgL4uAo6D_DJbVv_jjKPTPTwEOQYIRSia8IrLXbwSMmO2xnfrzTpP1SsGyjNfh5" />
- </picture>
+  <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=SukumarPavan/Mvsrece-App-Public&type=date&legend=top-left&sealed_token=dnyBoH-C7Cv-l0Q2DgdI6rzgtw_wp14-QkOqOqQPtVg5gTayLav8YJcf8EPOzT1qXnBunnUBGFbsURHPBeB89amBz502gM38kI31ZdADLTEEf5xHXwuduozdVr1upOgL4uAo6D_DJbVv_jjKPTPTwEOQYIRSia8IrLXbwSMmO2xnfrzTpP1SsGyjNfh5" width="600" />
 </a>
 </div>
 
