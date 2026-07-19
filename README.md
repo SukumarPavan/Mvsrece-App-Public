@@ -66,7 +66,7 @@ If you use and love the MVSR ECE App, please consider giving this repository a �
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=SukumarPavan/Mvsrece-App-Public&type=date&legend=top-left&sealed_token=dnyBoH-C7Cv-l0Q2DgdI6rzgtw_wp14-QkOqOqQPtVg5gTayLav8YJcf8EPOzT1qXnBunnUBGFbsURHPBeB89amBz502gM38kI31ZdADLTEEf5xHXwuduozdVr1upOgL4uAo6D_DJbVv_jjKPTPTwEOQYIRSia8IrLXbwSMmO2xnfrzTpP1SsGyjNfh5" />
  </picture>
 </a>
-<div></div>
+<br>
 <div align="center">
 Made with passion by ECE Students ❤️
 </div>
