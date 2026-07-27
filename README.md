@@ -5,6 +5,7 @@
 **The companion app for the Department of Electronics and Communication Engineering at MVSR Engineering College.** 
 
 [![GitHub stars](https://img.shields.io/github/stars/SukumarPavan/Mvsrece-App-Public?style=social)](https://github.com/SukumarPavan/Mvsrece-App-Public/stargazers)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSukumarPavan%2FMvsrece-App-Public&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
