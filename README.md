@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 MVSR ECE Companion App
+# 📱 MVSR-ECE Companion App
 
 **The companion app for the Department of Electronics and Communication Engineering at MVSR Engineering College.** 
 
