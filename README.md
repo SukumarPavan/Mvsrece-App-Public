@@ -2,7 +2,7 @@
 
 # 📱 MVSR-ECE Companion App
 
-**The companion app for the Department of Electronics and Communication Engineering at MVSR Engineering College.** 
+**The companion app for students of the ECE Department at MVSR Engineering College.** 
 
 [![GitHub stars](https://img.shields.io/github/stars/SukumarPavan/Mvsrece-App-Public?style=social)](https://github.com/SukumarPavan/Mvsrece-App-Public/stargazers)
 [![Views](https://komarev.com/ghpvc/?username=SukumarPavan-Mvsrece-App-Public&label=Views&color=0e75b6&style=flat)](https://github.com/SukumarPavan/Mvsrece-App-Public)
